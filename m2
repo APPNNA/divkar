@@ -12,3 +12,5 @@ files  can be one merge to another branch
 what is the spcl today 
 what are you doing 
 adding the some moreline using the vsc code 
+this is a good day of me 
+practising the git today 
