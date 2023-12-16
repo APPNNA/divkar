@@ -14,3 +14,7 @@ what are you doing
 adding the some moreline using the vsc code 
 this is a good day of me 
 practising the git today 
+today is very cool 
+what hapened now 
+where is my brother 
+what is done by yours 
