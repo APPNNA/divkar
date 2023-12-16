@@ -11,3 +11,4 @@ ans git merge is whwtever files are in the main it should be transfer in another
 files  can be one merge to another branch 
 what is the spcl today 
 what are you doing 
+adding the some moreline using the vsc code 
