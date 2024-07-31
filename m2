@@ -9,12 +9,6 @@ add another line in server side
 what is the git merge 
 ans git merge is whwtever files are in the main it should be transfer in another branch means 
 files  can be one merge to another branch 
-what is the spcl today 
-what are you doing 
-adding the some moreline using the vsc code 
-this is a good day of me 
-practising the git today 
-today is very cool 
-what hapened now 
-where is my brother 
-what is done by yours 
+jjbdwhbahwihf
+ajfgjsbfehwqibcnalegfwnf
+anjhfeldbjdh
